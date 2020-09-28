@@ -32,10 +32,10 @@ const useStyles = makeStyles({
 });
 const rows = [
 {name:'mugoboka',surname:'claude',nativelangwage:'kinyarwanda',langwageLearnt:1,DeleteIcon,EditIcon},
-{name:'mugoboka',surname:'claude',nativelangwage:'kinyarwanda',langwageLearnt:2,DeleteIcon,EditIcon},
-{name:'mugoboka',surname:'claude',nativelangwage:'kinyarwanda',langwageLearnt:4,DeleteIcon,EditIcon},
-{name:'mugoboka',surname:'claude',nativelangwage:'kinyarwanda',langwageLearnt:5,DeleteIcon,EditIcon},
-{name:'mugoboka',surname:'claude',nativelangwage:'kinyarwanda',langwageLearnt:7,DeleteIcon,EditIcon},
+{name:'rukundo',surname:'jean de dieu',nativelangwage:'English',langwageLearnt:2,DeleteIcon,EditIcon},
+{name:'kalisa',surname:'claude',nativelangwage:'kinyarwanda',langwageLearnt:4,DeleteIcon,EditIcon},
+{name:'kamana',surname:'jille',nativelangwage:'kinyarwanda',langwageLearnt:5,DeleteIcon,EditIcon},
+{name:'kanakuze',surname:'claudette',nativelangwage:'kinyarwanda',langwageLearnt:7,DeleteIcon,EditIcon},
 ];
 
 export default function DenseTable() {
