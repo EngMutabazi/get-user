@@ -31,11 +31,6 @@ const useStyles = makeStyles({
   },
 });
 const rows = [
-{name:'mugoboka',surname:'claude',nativelangwage:'kinyarwanda',langwageLearnt:1,DeleteIcon,EditIcon},
-{name:'mugoboka',surname:'claude',nativelangwage:'kinyarwanda',langwageLearnt:2,DeleteIcon,EditIcon},
-{name:'mugoboka',surname:'claude',nativelangwage:'kinyarwanda',langwageLearnt:4,DeleteIcon,EditIcon},
-{name:'mugoboka',surname:'claude',nativelangwage:'kinyarwanda',langwageLearnt:5,DeleteIcon,EditIcon},
-{name:'mugoboka',surname:'claude',nativelangwage:'kinyarwanda',langwageLearnt:7,DeleteIcon,EditIcon},
 ];
 
 export default function DenseTable() {
